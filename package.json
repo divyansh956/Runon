@@ -10,12 +10,16 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
+    "array-move": "^4.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.364.0",
     "next": "14.1.4",
     "react": "^18",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-color": "^2.19.3",
     "react-dom": "^18",
+    "react-sortable-hoc": "^2.0.0",
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7"
   },

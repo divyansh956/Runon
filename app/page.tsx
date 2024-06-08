@@ -1,9 +1,7 @@
-import { Button } from "@/components/ui/button";
+import ColorPalette from "@/components/Question2";
 
-export default function Home() {
-  return (
-    <div>
-      <Button>Click me</Button>
-    </div>
-  );
-}
+const page = () => {
+  return <ColorPalette />;
+};
+
+export default page;
